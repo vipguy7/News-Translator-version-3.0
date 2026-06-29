@@ -1,0 +1,8 @@
+{
+  "name": "MZM News Writer V3",
+  "description": "A professional AI-powered news script generator for Myanmar media. Features SEO optimization (titles, hashtags, meta tags), long-form article support (4000+ words), server-side scraping, and multi-format file parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
